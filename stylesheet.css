@@ -1,0 +1,203 @@
+/*!
+ * Web Fonts from Fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at https://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2023 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Radomir Tinkov
+ * License URL: https://www.fontspring.com/licenses/radomir-tinkov/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-thin-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-thin-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-thinitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-thinitalic-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-ultralight-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-ultralight-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-ultralightitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-ultralightitalic-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-light-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-lightitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-lightitalic-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-regular-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-regularitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-regularitalic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-medium-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-mediumitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-mediumitalic-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-semibold-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-semibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-semibolditalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-semibolditalic-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-bold-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-bolditalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-bolditalic-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-extrabold-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-extrabolditalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-extrabolditalic-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-black-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-black-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-blackitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-blackitalic-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-heavy-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-heavy-webfont.woff') format('woff');
+    font-weight: 950;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-heavyitalic-webfont.woff2') format('woff2'),
+         url('https://moka-admin0.github.io/Assets-NP-4.0/gilroy-heavyitalic-webfont.woff') format('woff');
+    font-weight: 950;
+    font-style: italic;
+    font-display: block;
+}
