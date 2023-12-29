@@ -201,3 +201,11 @@
     font-style: italic;
     font-display: block;
 }
+
+
+@font-face {
+  font-family: 'YourFontFamily';
+  src: url('https://moka-admin0.github.io/Assets-NP-4.0/nekst-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
