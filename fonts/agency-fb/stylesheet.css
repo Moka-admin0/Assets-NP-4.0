@@ -1,0 +1,7 @@
+@font-face {
+    font-family agency fb;
+    font-style normal;
+    font-weight 700;
+    src local(Agency FB),
+    url(AGENCYB.woff) format(woff);
+}
